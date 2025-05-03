@@ -15,9 +15,9 @@ I'm a software engineer with a background in observational astrophysics and data
 - **Languages:** Python, SQL, C#, IDL, MatLab, R-studio
 - **Data Analysis:** Pandas, NumPy, SciPy, Matplotlib
 - **Machine Learning:** Scikit-Learn, Keras, TensorFlow
-- **Version Control:** Git, GitHub, Azure DevOps
+- **Version Control & Tracking:** Git, GitHub, Visual Studio Code, Microsoft Azure DevOps, Agile/Scrum Methodology
 - **Quality Assurance:** Test Planning & Strategy, Test Case Design, Manual Testing, Automated Testing, Bug Tracking & Reporting, Test Documentation
-- **Cloud Platforms:** Azure
+
 
 ## 🌟 What Drives Me
 
